@@ -8,6 +8,9 @@
 - 各账号环境独立防风控：所有账号有独立指纹浏览器、独立登录态、独立IP地址。<br/>
 
 <b>客服微信： x78xyz</b> <br/>
+
+<b><a href='https://ai.feishu.cn/docx/WpOSd4mgRoJbqlx2tCDcmc6znDh?from=from_copylink'>详细内容请参考飞书文档</a></b><br/>
+
 # 功能预览图：
 <img width="461" height="702" alt="image" src="https://github.com/user-attachments/assets/a9fa7680-70be-4611-af31-1f73f2ce650b" />
 <img width="593" height="726" alt="image" src="https://github.com/user-attachments/assets/b59b5aaa-fff1-401b-878f-270188fab555" />
