@@ -6,7 +6,8 @@
 - RPA技术模拟人类行为：随机操作时间与动作，行为可视化，保障账号安全。<br/>
 - 数据完全本地化：所有账号、任务、素材数据存储于本地硬盘，杜绝云端泄露风险。<br/>
 - 各账号环境独立防风控：所有账号有独立指纹浏览器、独立登录态、独立IP地址。<br/>
-客服微信： x78xyz <br/>
+
+<b>客服微信： x78xyz</b> <br/>
 # 功能预览图：
 <img width="461" height="702" alt="image" src="https://github.com/user-attachments/assets/a9fa7680-70be-4611-af31-1f73f2ce650b" />
 <img width="593" height="726" alt="image" src="https://github.com/user-attachments/assets/b59b5aaa-fff1-401b-878f-270188fab555" />
