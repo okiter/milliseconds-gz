@@ -9,7 +9,7 @@
 
 <b>客服微信： x78xyz</b> <br/>
 
-<b><a href='https://ai.feishu.cn/docx/WpOSd4mgRoJbqlx2tCDcmc6znDh?from=from_copylink'>详细内容请参考飞书文档</a></b><br/>
+<b><a href='https://ai.feishu.cn/docx/WpOSd4mgRoJbqlx2tCDcmc6znDh?from=from_copylink' target='_blank'>详细内容请参考飞书文档</a></b><br/>
 
 # 功能预览图：
 <img width="461" height="702" alt="image" src="https://github.com/user-attachments/assets/a9fa7680-70be-4611-af31-1f73f2ce650b" />
