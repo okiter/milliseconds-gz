@@ -7,7 +7,7 @@
 - 数据完全本地化：所有账号、任务、素材数据存储于本地硬盘，杜绝云端泄露风险。<br/>
 - 各账号环境独立防风控：所有账号有独立指纹浏览器、独立登录态、独立IP地址。<br/>
 
-<b>客服微信： x78xyz</b> <br/>
+<b>客服微信： x78xyz  </b> <br/>
 
 <b><a href='https://ai.feishu.cn/docx/WpOSd4mgRoJbqlx2tCDcmc6znDh?from=from_copylink' target='_blank'>详细内容请参考飞书文档</a></b><br/>
 
